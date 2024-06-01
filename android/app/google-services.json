@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "567734029867",
+    "firebase_url": "https://isberget-2bece.firebaseio.com",
+    "project_id": "isberget-2bece",
+    "storage_bucket": "isberget-2bece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567734029867:android:600ae40acbb01188",
+        "android_client_info": {
+          "package_name": "com.installationspartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567734029867-cic6jrqg2djk7oa8akavfg7ksop50jrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi9iEOnV_mRPiuMF0r9YDQ48o8YJMANs0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
